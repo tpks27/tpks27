@@ -14,4 +14,5 @@ I have worked in both financial services and End-User Computing, including as a 
 
 
 ## 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/prabha-t-737576162)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabha-t-737576162)
+[![Homepage](https://img.shields.io/badge/-Website-4f4f4f?logo=googlechrome&logoColor=white)](https://tpks27.github.io)
